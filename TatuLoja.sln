@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatuDominio", "TatuDominio\TatuDominio.csproj", "{FE00607E-8C16-4F15-A2AF-8D96CDEE3FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatuWeb", "TatuWeb\TatuWeb.csproj", "{B0D14CCC-39C3-4FC8-A69B-3674E662314A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatuTeste", "TatuTeste\TatuTeste.csproj", "{3A2A08DB-74A5-40D5-ADD9-FCAB155A6522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE00607E-8C16-4F15-A2AF-8D96CDEE3FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE00607E-8C16-4F15-A2AF-8D96CDEE3FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE00607E-8C16-4F15-A2AF-8D96CDEE3FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE00607E-8C16-4F15-A2AF-8D96CDEE3FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D14CCC-39C3-4FC8-A69B-3674E662314A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D14CCC-39C3-4FC8-A69B-3674E662314A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D14CCC-39C3-4FC8-A69B-3674E662314A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D14CCC-39C3-4FC8-A69B-3674E662314A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2A08DB-74A5-40D5-ADD9-FCAB155A6522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2A08DB-74A5-40D5-ADD9-FCAB155A6522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2A08DB-74A5-40D5-ADD9-FCAB155A6522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2A08DB-74A5-40D5-ADD9-FCAB155A6522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
